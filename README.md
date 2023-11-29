@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lisa @Lisa-Stamm
+- 👋 Hi, I’m @Lisa-Stamm
 - 👀 I’m interested in Explorama, Visual Analytics, AI, Data Science
 - 🌱 I’m currently learning about Microsoft Azure data analytics possibilities
 - 💞️ I’m looking to collaborate on Explorama, Data Analytics
